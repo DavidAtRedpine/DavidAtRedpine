@@ -1,4 +1,4 @@
-[![MasterHead](https://redpine.international/portfolio/tofu-army.gif)]
+![MasterHead](https://redpine.international/portfolio/tofu-army.gif)
 
 ### Hi there 👋
 
