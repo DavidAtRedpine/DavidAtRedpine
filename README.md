@@ -11,7 +11,7 @@
 
 - 💬 Ask us about **Game programming, multiplayer and networking, cross platform support, and performance optimization**
 
-- 📫 Reach us through our website at [redpine.international](https://redpine.international)
+- 📫 Reach us through our website at [redpine.international](https://redpine.international/company/contact/)
 
 <h3 align="left">Tools we like to use:</h3>
 <p align="left"> 
