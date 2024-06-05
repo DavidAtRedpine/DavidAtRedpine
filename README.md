@@ -1,7 +1,7 @@
 ![MasterHead](https://redpine.international/portfolio/tofu-army.gif?v=1)
 
 <h1 align="center">Welcome to the Redpine Github repo 👋</h1>
-<h3 align="center">Redpine was founded in 2023 by David Scripps, a Minnesota native residing in Japan. We specialize in delivering high-quality engineering solutions for games and real-time 3D experiences, particularly in Unity. David is a Unity Certified Instructor, committed to excellence in every project.</h3>
+<p>Redpine was founded in 2023 by David Scripps, a Minnesota native residing in Japan. We specialize in delivering high-quality engineering solutions for games and real-time 3D experiences, particularly in Unity. David is a Unity Certified Instructor, committed to excellence in every project.</p>
 
 - 🔭 Our Specialization: We excel in **game development** with a strong focus on **Unity**.
 
