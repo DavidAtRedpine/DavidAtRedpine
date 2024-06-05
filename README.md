@@ -1,23 +1,21 @@
 ![MasterHead](https://redpine.international/portfolio/tofu-army.gif?v=1)
 
 <h1 align="center">Welcome to the Redpine Github repo 👋</h1>
-<h3 align="center">Redpine provides high quality engineering solutions for games and real-time 3d experiences.</h3>
+<h3 align="center">Redpine was founded in 2023 by David Scripps, a Minnesota native residing in Japan. We specialize in delivering high-quality engineering solutions for games and real-time 3D experiences, particularly in Unity. David is a Unity Certified Instructor, committed to excellence in every project.</h3>
 
-- 🔭 We specialize in **Game and Metaverse** development projects for **Unity**
+- 🔭 Our Specialization: We excel in **game development** with a strong focus on **Unity**.
 
-- 🌱 We're also interested in **AR, VR, Unreal, and Godot**
+- 👯 **Collaboration**: We're eager to collaborate on **real-time 3D application development** projects.
 
-- 👯 We're looking to collaborate on **real-time 3d application development and real-time AI inferencing applications**
+- 🌱 **Beyond Gaming**: Leveraging our extensive **Unity** expertise, we aim to make an impact in fields like the **medical industry**.
 
-- 💬 Ask us about **Game programming, multiplayer and networking, cross platform support, and performance optimization**
+- 💬 **Consultation Services**: We offer expert consultations on **game programming**, **multiplayer and networking**, **cross-platform support**, and **performance optimization**.
 
-- 📫 Reach us through our website at [redpine.international](https://redpine.international/company/contact/)
+- 📫 **Contact Us**: Reach out through our website at [redpine.international](https://redpine.international/company/contact/)
 
 <h3 align="left">Tools we like to use:</h3>
 <p align="left"> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
-<a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="godot" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://onnx.ai/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/onnxai/onnxai-icon.svg" alt="onnx" width="40" height="40"/> </a> 
